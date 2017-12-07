@@ -1,0 +1,18 @@
+div.section-giphy {
+	margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.jumbotron {
+	background-color: #80c5de;
+	text-shadow: 3px 2px red;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.panal-title {
+	margin: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
